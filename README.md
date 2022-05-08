@@ -4,6 +4,4 @@
 
 ✓ Estudando C.
 
-✓ Comecei a estudar recentemente
-
 ======================================
