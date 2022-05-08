@@ -1,7 +1,9 @@
 ======================================
+
 ✓ 16 years.
 
 ✓ Estudando C.
-                                     
-✓ Comecei a estudar recentemente.    
+
+✓ Comecei a estudar recentemente
+
 ======================================
